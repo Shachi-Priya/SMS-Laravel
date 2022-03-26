@@ -1,0 +1,1 @@
+This is a student management system SMS, created by using MVC programming Laravel, Html CSS and Bootstrap, and storing data using MySQL, this app allows to manage and edit students data and update as well. 
